@@ -1,7 +1,16 @@
 # NEXGEN Weather
 
- <img width="3806" height="1922" alt="Screenshot 2026-08-27 085759" src="https://github.com/user-attachments/assets/7960c488-92fe-49f9-8531-0eabf24ca02d" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7960c488-92fe-49f9-8531-0eabf24ca02d" alt="NEXGEN Weather Dashboard" width="100%">
+</p>
 
+<p align="center">
+  <strong>A modern, fast and beautiful weather experience for your browser.</strong>
+</p>
+
+<p align="center">
+  Current Weather • Hourly Forecast • 7-Day Forecast • Air Quality • Saved Locations • Notifications
+</p>
 
 ---
 
@@ -9,9 +18,9 @@
 
 **NEXGEN Weather** is a modern browser weather extension developed by **NEXGEN Dev Studio**.
 
-It provides quick access to current weather conditions, hourly forecasts, 7-day forecasts, air quality information, saved locations, and weather notifications — directly from your browser.
+It provides quick access to current weather conditions, hourly forecasts, 7-day forecasts, air quality information, saved locations, and optional weather notifications — directly from your browser.
 
-The interface is designed with a clean, modern visual system featuring responsive layouts, day and night weather scenes, light and dark themes, and a focused weather dashboard.
+The interface is designed with a clean and modern visual system featuring responsive layouts, dynamic day and night weather scenes, light and dark themes, and a focused weather dashboard.
 
 ---
 
@@ -44,8 +53,8 @@ The interface is designed with a clean, modern visual system featuring responsiv
 
 - Seven-day weather forecast
 - Daily temperature range
-- Weather condition
-- Rain / drizzle / shower information
+- Weather conditions
+- Rain, drizzle, and shower information
 - Temperature range visualization
 
 ### 📍 Locations
@@ -58,7 +67,7 @@ The interface is designed with a clean, modern visual system featuring responsiv
 
 ### 🌙 Day & Night Experience
 
-NEXGEN Weather supports dynamic weather scenes for different times of the day.
+NEXGEN Weather provides dynamic visual scenes that adapt to the time of day.
 
 - ☀️ Day weather scene
 - 🌅 Evening transition
@@ -67,7 +76,7 @@ NEXGEN Weather supports dynamic weather scenes for different times of the day.
 - 🌤️ Dynamic weather visuals
 - Automatic day/night adaptation
 
-The weather interface can automatically adapt its visual presentation based on the current local time and weather conditions.
+The interface can automatically adapt its visual presentation based on the local time and current weather conditions.
 
 ### 🎨 Themes
 
@@ -75,7 +84,8 @@ The weather interface can automatically adapt its visual presentation based on t
 - Dark theme
 - Modern glass-inspired interface
 - Responsive weather cards
-- Consistent dashboard and popup design
+- Consistent popup and dashboard design
+- Weather-aware visual presentation
 
 ### 🔔 Notifications
 
@@ -86,7 +96,7 @@ The weather interface can automatically adapt its visual presentation based on t
 
 ### 🖥️ Weather Dashboard
 
-The full dashboard provides a larger weather experience with:
+The full dashboard provides an expanded weather experience with:
 
 - Overview
 - Locations
@@ -99,7 +109,7 @@ The full dashboard provides a larger weather experience with:
 
 ### 📱 Responsive Interface
 
-Designed to work smoothly across different browser window sizes while maintaining a clean and readable interface.
+Designed to work smoothly across different browser window sizes while maintaining a clean, readable, and consistent interface.
 
 ---
 
@@ -107,36 +117,41 @@ Designed to work smoothly across different browser window sizes while maintainin
 
 ### ☀️ Weather Popup — Day
 
- 
-<img width="690" height="1016" alt="Screenshot 2026-08-27 090401" src="https://github.com/user-attachments/assets/20851615-4f9e-4483-b51f-1eebd8844dbf" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/20851615-4f9e-4483-b51f-1eebd8844dbf" alt="NEXGEN Weather Day Popup" width="420">
+</p>
 
 ---
 
 ### 🌙 Weather Popup — Night
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f9ef9c2f-b014-484f-82d9-024c80612e42" alt="NEXGEN Weather Night Popup" width="420">
+</p>
 
-<img width="687" height="1020" alt="Screenshot 2026-08-27 085629" src="https://github.com/user-attachments/assets/f9ef9c2f-b014-484f-82d9-024c80612e42" />
- 
 ---
 
 ### ☀️ Full Dashboard — Light Theme
 
- <img width="3831" height="1914" alt="Screenshot 2026-08-27 090127" src="https://github.com/user-attachments/assets/3d72e5ee-4f44-4279-8b38-cb026cd138d7" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3d72e5ee-4f44-4279-8b38-cb026cd138d7" alt="NEXGEN Weather Light Dashboard" width="100%">
+</p>
 
 ---
 
 ### 🌙 Full Dashboard — Dark Theme
 
- <img width="3806" height="1922" alt="Screenshot 2026-08-27 085759" src="https://github.com/user-attachments/assets/4a51fd7d-f707-403f-be06-6a911aa8e2cb" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4a51fd7d-f707-403f-be06-6a911aa8e2cb" alt="NEXGEN Weather Dark Dashboard" width="100%">
+</p>
 
 ---
 
 ### ⚙️ Settings
 
- <img width="3815" height="1927" alt="Screenshot 2026-08-27 085840" src="https://github.com/user-attachments/assets/9bbc06a4-2457-4b25-93aa-0d1f5a8ff151" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9bbc06a4-2457-4b25-93aa-0d1f5a8ff151" alt="NEXGEN Weather Settings" width="100%">
+</p>
 
 ---
 
@@ -150,7 +165,7 @@ Current integrations include:
 - **Open-Meteo Geocoding** — Location search and geocoding
 - **Open-Meteo Air Quality** — Air quality information
 
-Third-party services are subject to their respective terms, licenses, and policies.
+Third-party services remain subject to their respective terms, licenses, and policies.
 
 ---
 
@@ -171,7 +186,7 @@ NEXGEN Weather does not intentionally collect:
 
 Weather and location requests are sent directly to the applicable third-party services required to provide the requested information.
 
-For complete information, see:
+For complete details, see:
 
 **[Privacy Policy](PRIVACY.md)**
 
