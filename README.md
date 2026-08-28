@@ -210,7 +210,7 @@ For complete licensing terms, see:
 
 Use of NEXGEN Weather is subject to the:
 
-**[Terms of Service](TERMS.md)**
+**[Terms of Service](TERMS-OF-SERVICE.md)**
 
 ---
 
